@@ -1,0 +1,61 @@
+body{
+    background-color: orange;
+    font-size: 130%;
+    font-style: arial;
+    justify-content: center;
+    align-items: center;
+}
+
+#main{
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: black;
+    font-size: 200%;
+    margin: auto;
+    text-align: center;
+}
+
+#churrasco{
+    font-size: 150%;
+}
+
+#valor1{
+    border-radius: 10px;
+}
+
+#valor2{
+    border-radius: 10px;
+}
+
+#valor3{
+    border-radius: 10px;
+}
+
+#btnSalvar{
+    font-size: 80%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#container{
+    font-size: 120%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
